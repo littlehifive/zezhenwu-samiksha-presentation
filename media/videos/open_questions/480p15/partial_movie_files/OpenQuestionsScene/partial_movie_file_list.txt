@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/michaelfive/Code/TAF_repo/presentations/zezhenwu-samiksha-presentation/media/videos/open_questions/480p15/partial_movie_files/OpenQuestionsScene/1185818338_424290652_223132457.mp4'
+file 'file:/Users/michaelfive/Code/TAF_repo/presentations/zezhenwu-samiksha-presentation/media/videos/open_questions/480p15/partial_movie_files/OpenQuestionsScene/624642324_3397614746_1079269884.mp4'
+file 'file:/Users/michaelfive/Code/TAF_repo/presentations/zezhenwu-samiksha-presentation/media/videos/open_questions/480p15/partial_movie_files/OpenQuestionsScene/624642324_2844360058_2008158444.mp4'
